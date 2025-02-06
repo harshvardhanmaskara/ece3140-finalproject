@@ -1,0 +1,14 @@
+../source/led.c:12:6:led_init	8	static
+../source/led.c:28:6:red_on	8	static
+../source/led.c:31:6:red_off	8	static
+../source/led.c:34:6:red_toggle	8	static
+../source/led.c:37:6:blue_on	8	static
+../source/led.c:40:6:blue_off	8	static
+../source/led.c:43:6:blue_toggle	8	static
+../source/led.c:46:6:green_on	8	static
+../source/led.c:49:6:green_off	8	static
+../source/led.c:52:6:green_toggle	8	static
+../source/led.c:56:6:all_leds_off	8	static
+../source/led.c:63:6:set_leds	24	static
+../source/led.c:70:6:led_off	16	static
+../source/led.c:75:6:leds_off	24	static

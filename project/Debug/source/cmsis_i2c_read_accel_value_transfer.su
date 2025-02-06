@@ -1,0 +1,11 @@
+/Users/harshvardhan/Code/ece3140/final_project/project/drivers/fsl_clock.h:601:20:CLOCK_EnableClock	24	static
+/Users/harshvardhan/Code/ece3140/final_project/project/drivers/fsl_gpio.h:161:20:GPIO_PinWrite	24	static
+/Users/harshvardhan/Code/ece3140/final_project/project/drivers/fsl_port.h:268:20:PORT_SetPinConfig	32	static
+../source/cmsis_i2c_read_accel_value_transfer.c:92:13:i2c_release_bus_delay	16	static
+../source/cmsis_i2c_read_accel_value_transfer.c:101:6:BOARD_I2C_ReleaseBus	16	static
+../source/cmsis_i2c_read_accel_value_transfer.c:152:10:I2C0_GetFreq	8	static
+../source/cmsis_i2c_read_accel_value_transfer.c:157:6:I2C_MasterSignalEvent_t	16	static
+../source/cmsis_i2c_read_accel_value_transfer.c:169:13:I2C_ReadAccelWhoAmI	24	static
+../source/cmsis_i2c_read_accel_value_transfer.c:259:13:I2C_WriteAccelReg	32	static
+../source/cmsis_i2c_read_accel_value_transfer.c:286:13:I2C_ReadAccelRegs	40	static
+../source/cmsis_i2c_read_accel_value_transfer.c:320:5:main	72	static
